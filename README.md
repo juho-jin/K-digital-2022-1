@@ -12,6 +12,6 @@
  + pnusw09 : 강정효 https://github.com/slows14tem
  + pnusw10 : 한규식 https://github.com/HanGyuSik
  + pnusw11 : 안현수 https://github.com/Anhsss/
- + pnusw12 : 김찬준 github.com/ckswns879 
+ + pnusw12 : 김찬준 https://github.com/ckswns879 
  + pnusw14 : 진주호 https://github.com/juho-jin
  
